@@ -10,7 +10,6 @@ let currentPopup: any = undefined;
 WA.onInit().then(() => {
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags);
-    WA.chat.sendChatMessage('Hello world', 'Mr Robot');
     WA.room.area.onEnter('welcomeZone').subscribe(() => {
         currentPopup = WA.ui.openPopup("welcomePopup", "Bienvenue au HOLIDEE & NXLVL Center ! \r Je me rends directement à la salle :", [{
 		label: "HOLIDEE Meeting",
