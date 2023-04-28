@@ -518,7 +518,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Office#from-flower"
+                         "value":"Center#from-flower"
                         }],
                  "rotation":0,
                  "visible":true,
