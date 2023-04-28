@@ -518,7 +518,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-office"
+                         "value":"Office#from-flower"
                         }],
                  "rotation":0,
                  "visible":true,
