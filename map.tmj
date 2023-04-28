@@ -518,7 +518,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Center#from-flower"
+                         "value":"Conference#from-office"
                         }],
                  "rotation":0,
                  "visible":true,
