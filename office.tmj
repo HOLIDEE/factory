@@ -593,7 +593,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"@\/FLOWER\/Camping\/Center#from-office"
+                         "value":"@\/FLOWER\/Camping\/Center"
                         }],
                  "rotation":0,
                  "visible":true,
