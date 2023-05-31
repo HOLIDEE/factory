@@ -592,7 +592,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Office#from-lobby"
+                         "value":"@\/HOLIDEE\/Center\/Office#from-lobby"
                         }],
                  "rotation":0,
                  "type":"area",
