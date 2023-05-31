@@ -5783,12 +5783,12 @@
                 {
                  "height":64,
                  "id":32,
-                 "name":"to-office",
+                 "name":"to-lobby",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Office#from-center"
+                         "value":"Lobby#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -5800,7 +5800,7 @@
                 {
                  "height":32,
                  "id":33,
-                 "name":"from-office",
+                 "name":"from-lobby",
                  "properties":[
                         {
                          "name":"start",
