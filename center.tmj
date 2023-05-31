@@ -89,14 +89,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"readableBy",
-                 "type":"string",
-                 "value":"Guest"
-                }, 
-                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"Guest"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -191,14 +191,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"readableBy",
-                 "type":"string",
-                 "value":"Team"
-                }, 
-                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"Team"
                 }],
          "type":"tilelayer",
          "visible":true,
