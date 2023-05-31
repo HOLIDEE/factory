@@ -558,7 +558,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Conference#from-lobby"
+                         "value":"@\/HOLIDEE\/Center\/Conference#from-lobby"
                         }],
                  "rotation":0,
                  "type":"area",
