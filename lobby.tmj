@@ -558,7 +558,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"@\/HOLIDEE\/Center\/Conference#from-lobby"
+                         "value":"https:\/\/meta.holidee.fr\/@\/HOLIDEE\/Center\/Conference#from-lobby"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -592,7 +592,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"@\/HOLIDEE\/Center\/Office#from-lobby"
+                         "value":"https:\/\/meta.holidee.fr\/@\/HOLIDEE\/Center\/Office#from-lobby"
                         }],
                  "rotation":0,
                  "type":"area",
