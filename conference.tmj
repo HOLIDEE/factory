@@ -324,7 +324,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Lobby#from-conference"
+                         "value":"https:\/\/meta.holidee.fr\/#from-conference"
                         }],
                  "rotation":0,
                  "type":"area",
