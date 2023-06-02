@@ -11,6 +11,16 @@ WA.onInit().then(() => {
 	console.log('Scripting API ready');
 	console.log('Player tags: ',WA.player.tags);
 // Action zone "visit"
+	WA.room.area.onEnter('HolideeWebsite').subscribe(() => {
+		WA.ui.modal.openModal({
+			title: "holidee Website",
+			src: 'https://holidee.fr',
+			allowApi: true,
+			allow: "fullscreen",
+			position: "center"
+		});	
+	});
+
 	WA.room.area.onEnter('NxlvlWebsite').subscribe(() => {
 		WA.ui.modal.openModal({
 			title: "nxlvl Website",
