@@ -5783,12 +5783,12 @@
                 {
                  "height":64,
                  "id":32,
-                 "name":"to-lobby",
+                 "name":"to-start",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Lobby#from-office"
+                         "value":"https:\/\/meta.holidee.fr#from-factory"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -5800,7 +5800,7 @@
                 {
                  "height":32,
                  "id":33,
-                 "name":"from-lobby",
+                 "name":"from-start",
                  "properties":[
                         {
                          "name":"start",
