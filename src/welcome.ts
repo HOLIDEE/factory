@@ -10,6 +10,31 @@ let currentPopup: any = undefined;
 WA.onInit().then(() => {
 	console.log('Scripting API ready');
 	console.log('Player tags: ',WA.player.tags);
+// Action zone "visit"
+	WA.room.area.onEnter('HolideeWebsite').subscribe(() => {
+		WA.ui.modal.openModal({
+			title: "Holidee Website",
+			src: 'https://holidee.fr',
+			allowApi: true,
+			allow: "fullscreen",
+			position: "center",
+			() => {
+				console.info('The modal was closed');
+			}
+		});	
+	});
+	WA.room.area.onEnter('NxlvlWebsite').subscribe(() => {
+		WA.ui.modal.openModal({
+			title: "nxlvl Website",
+			src: 'https://nxlvl.fr',
+			allowApi: true,
+			allow: "fullscreen",
+			position: "center",
+			() => {
+				console.info('The modal was closed');
+			}
+		});	
+	});
 
 // Action zone "visit"
 //	WA.room.area.onEnter('holideeWebsite').subscribe(() => {
