@@ -6556,7 +6556,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Bienvenue dans les bureaux HOLIDEE & NXLVL"
+         "value":"Bienvenue dans le HOLIDEE Center Factory"
         }, 
         {
          "name":"mapImage",
@@ -6566,7 +6566,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"HOLIDEE&NXLVL-OFFICE"
+         "value":"HOLIDEE CENTER FACTORY"
         }, 
         {
          "name":"script",
