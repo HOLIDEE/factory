@@ -5655,40 +5655,6 @@
          "objects":[
                 {
                  "height":64,
-                 "id":35,
-                 "name":"to-start",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"https:\/\/meta.holidee.fr#from-factory"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":96,
-                 "x":2080,
-                 "y":2496
-                }, 
-                {
-                 "height":32,
-                 "id":36,
-                 "name":"from-start",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32,
-                 "x":2112,
-                 "y":2432
-                }, 
-                {
-                 "height":64,
                  "id":37,
                  "name":"HolideeWebsite",
                  "rotation":0,
