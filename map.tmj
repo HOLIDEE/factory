@@ -5699,6 +5699,40 @@
                  "width":96,
                  "x":2400,
                  "y":1248
+                }, 
+                {
+                 "height":64,
+                 "id":39,
+                 "name":"to-arena",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/meta.holidee.fr\/@\/NXLVL\/arena#from-factory"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":3104,
+                 "y":1600
+                }, 
+                {
+                 "height":32,
+                 "id":40,
+                 "name":"from-arena",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":3040,
+                 "y":1632
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -6536,7 +6570,7 @@
          "y":0
         }],
  "nextlayerid":156,
- "nextobjectid":39,
+ "nextobjectid":41,
  "orientation":"orthogonal",
  "properties":[
         {
