@@ -5733,6 +5733,40 @@
                  "width":32,
                  "x":3040,
                  "y":1632
+                }, 
+                {
+                 "height":64,
+                 "id":41,
+                 "name":"to-camping",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/meta.holidee.fr\/@\/HOLIDEE\/camping#from-factory"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":2528,
+                 "y":2176
+                }, 
+                {
+                 "height":32,
+                 "id":42,
+                 "name":"from-camping",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":2496,
+                 "y":2272
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -6570,7 +6604,7 @@
          "y":0
         }],
  "nextlayerid":156,
- "nextobjectid":41,
+ "nextobjectid":43,
  "orientation":"orthogonal",
  "properties":[
         {
