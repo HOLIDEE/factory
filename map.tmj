@@ -5742,7 +5742,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/meta.holidee.fr\/@\/HOLIDEE\/camping#from-factory"
+                         "value":"camping#from-factory"
                         }],
                  "rotation":0,
                  "type":"area",
