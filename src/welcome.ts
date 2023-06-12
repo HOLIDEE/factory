@@ -11,6 +11,11 @@ WA.onInit().then(() => {
 	console.log('Scripting API ready');
 	console.log('Player tags: ',WA.player.tags);
 // Action zone "visit"
+
+	WA.room.area.onEnter('to-camping').subscribe(() => {
+		WA.nav.goToPage('https://meta.holidee.fr/@/FLOWER/camping#from-factory');
+	})
+
 	WA.room.area.onEnter('HolideeWebsite').subscribe(() => {
 		WA.ui.modal.openModal({
 			title: "holidee Website",
