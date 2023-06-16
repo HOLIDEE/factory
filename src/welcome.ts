@@ -13,7 +13,7 @@ WA.onInit().then(() => {
 // Action zone "visit"
 
 	WA.room.area.onEnter('to-camping').subscribe(() => {
-		WA.nav.goToPage('https://meta.holidee.fr/@/Flower/Camping');
+		WA.nav.goToPage('https://meta.holidee.fr/@/Flower/Campings');
 	})
 
 	WA.room.area.onEnter('HolideeWebsite').subscribe(() => {
