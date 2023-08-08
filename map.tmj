@@ -6272,6 +6272,17 @@
                  "width":32,
                  "x":3104,
                  "y":1440
+                }, 
+                {
+                 "height":64,
+                 "id":45,
+                 "name":"from-casting",
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":3040,
+                 "y":1504
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -7210,7 +7221,7 @@
          "y":0
         }],
  "nextlayerid":170,
- "nextobjectid":45,
+ "nextobjectid":46,
  "orientation":"orthogonal",
  "properties":[
         {
