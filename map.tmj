@@ -6230,7 +6230,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/meta.holidee.fr\/@\/NXLVL\/sandaya\/casting"
+                         "value":"https:\/\/meta.holidee.fr\/@\/HOLIDEE\/sandaya\/casting"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -6247,7 +6247,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/meta.holidee.fr\/@\/NXLVL\/mileade\/casting"
+                         "value":"https:\/\/meta.holidee.fr\/@\/HOLIDEE\/mileade\/casting"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -6264,7 +6264,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/meta.holidee.fr\/@\/NXLVL\/mmv\/casting"
+                         "value":"https:\/\/meta.holidee.fr\/@\/HOLIDEE\/mmv\/casting"
                         }],
                  "rotation":0,
                  "type":"area",
