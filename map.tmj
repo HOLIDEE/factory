@@ -6277,6 +6277,12 @@
                  "height":64,
                  "id":45,
                  "name":"from-casting",
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
