@@ -17,7 +17,7 @@ WA.onInit().then(() => {
 	});
 
 	WA.room.area.onEnter('Jira').subscribe(() => {
-		WA.nav.openTab('https://holidee.atlassian.net/servicedesk/customer/portals');
+		WA.nav.openTab('https://holidee.atlassian.net/servicedesk');
 	});
 
 	WA.room.area.onEnter('HolideeWebsite').subscribe(() => {
