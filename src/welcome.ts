@@ -17,7 +17,7 @@ WA.onInit().then(() => {
 	});
 
 	WA.room.area.onEnter('Jira').subscribe(() => {
-		WA.nav.openTab('https://holidee.atlassian.net/servicedesk/customer/portal/5');
+		WA.nav.openTab('https://holidee.atlassian.net/servicedesk/customer/portals');
 	});
 
 	WA.room.area.onEnter('HolideeWebsite').subscribe(() => {
@@ -31,7 +31,7 @@ WA.onInit().then(() => {
 	});
 
 	WA.room.area.onEnter('NxlvlWebsite').subscribe(() => {
-			WA.ui.modal.openModal({
+		WA.ui.modal.openModal({
 			title: "nxlvl Website",
 			src: 'https://nxlvl.fr',
 			allowApi: true,
