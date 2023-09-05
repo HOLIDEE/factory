@@ -31,14 +31,13 @@ WA.onInit().then(() => {
 	});
 
 	WA.room.area.onEnter('NxlvlWebsite').subscribe(() => {
-		currentModal = WA.ui.modal.openModal({
+			WA.ui.modal.openModal({
 			title: "nxlvl Website",
 			src: 'https://nxlvl.fr',
 			allowApi: true,
 			allow: "fullscreen",
 			position: "center"
 		});	
-
 	});
 	
 // Action zone "visit"
