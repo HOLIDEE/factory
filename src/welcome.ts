@@ -14,7 +14,11 @@ WA.onInit().then(() => {
 
 	WA.room.area.onEnter('to-camping').subscribe(() => {
 		WA.nav.goToPage('https://meta.holidee.fr/@/Flower/Campings');
-	})
+	});
+
+	WA.room.area.onEnter('Jira').subscribe(() => {
+		WA.nav.openTab('https://holidee.atlassian.net/servicedesk/customer/portals');
+	});
 
 	WA.room.area.onEnter('HolideeWebsite').subscribe(() => {
 		WA.ui.modal.openModal({
@@ -35,7 +39,7 @@ WA.onInit().then(() => {
 			position: "center"
 		});	
 	});
-
+	
 // Action zone "visit"
 //	WA.room.area.onEnter('holideeWebsite').subscribe(() => {
 //		WA.chat.sendChatMessage('Hello world', 'Mr Robot');
