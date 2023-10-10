@@ -6808,7 +6808,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/meta.holidee.fr\/@\/SANDAYA\/sandaya\/casting"
+                         "value":"https:\/\/meta.holidee.fr\/@\/HOLIDEE\/sandaya\/casting"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -6909,7 +6909,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/meta.holidee.fr\/@\/SANDAYA\/fram\/casting"
+                         "value":"https:\/\/meta.holidee.fr\/@\/HOLIDEE\/fram\/casting"
                         }],
                  "rotation":0,
                  "type":"area",
