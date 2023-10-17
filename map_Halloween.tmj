@@ -9639,7 +9639,7 @@
          "value":"src\/welcome.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -10246,7 +10246,7 @@
         {
          "columns":16,
          "firstgid":77521,
-         "image":"tilesets\/Haloween.png",
+         "image":"tilesets\/Halloween\/Haloween.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
