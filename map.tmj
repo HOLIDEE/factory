@@ -8822,28 +8822,6 @@
                 }, 
                 {
                  "height":34,
-                 "id":52,
-                 "name":"TEST",
-                 "properties":[
-                        {
-                         "name":"destinationX",
-                         "type":"int",
-                         "value":160
-                        }, 
-                        {
-                         "name":"destinationY",
-                         "type":"int",
-                         "value":1500
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":125,
-                 "x":160,
-                 "y":1410
-                }, 
-                {
-                 "height":34,
                  "id":53,
                  "name":"Ahhhhh",
                  "properties":[
