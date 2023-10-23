@@ -8823,24 +8823,24 @@
                 {
                  "height":34,
                  "id":52,
-                 "name":"Ahhhhh",
+                 "name":"TEST",
                  "properties":[
                         {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":5
+                         "name":"destinationX",
+                         "type":"int",
+                         "value":160
                         }, 
                         {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/wa.holidee.fr\/Ahhhh.mp3"
+                         "name":"destinationY",
+                         "type":"int",
+                         "value":1500
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":34,
-                 "x":1341,
-                 "y":1280
+                 "width":125,
+                 "x":160,
+                 "y":1410
                 }, 
                 {
                  "height":34,
@@ -9404,6 +9404,28 @@
                  "width":247,
                  "x":3027,
                  "y":955
+                }, 
+                {
+                 "height":34,
+                 "id":79,
+                 "name":"Ahhhhh",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/wa.holidee.fr\/Ahhhh.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":34,
+                 "x":1339,
+                 "y":1277
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -10716,7 +10738,7 @@
          "y":0
         }],
  "nextlayerid":324,
- "nextobjectid":79,
+ "nextobjectid":80,
  "orientation":"orthogonal",
  "properties":[
         {
