@@ -6942,7 +6942,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/meta.holidee.fr\/@\/NXLVL\/arena\/RET"
+                         "value":"https:\/\/meta.holidee.fr\/@\/NXLVL\/arena\/RET#from-factory"
                         }],
                  "rotation":0,
                  "type":"area",
