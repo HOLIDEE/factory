@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 ._simulateur.sh
 ._install.sh
+._map.tmj
