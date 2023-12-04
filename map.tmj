@@ -10135,8 +10135,8 @@
                  "type":"area",
                  "visible":true,
                  "width":105,
-                 "x":1596,
-                 "y":1865
+                 "x":2621,
+                 "y":1350
                 }, 
                 {
                  "height":108,
@@ -10293,7 +10293,7 @@
                  "y":1430
                 }, 
                 {
-                 "height":89,
+                 "height":182,
                  "id":247,
                  "name":"grelotcasse",
                  "properties":[
@@ -10310,9 +10310,31 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":206,
+                 "width":177,
                  "x":1864,
                  "y":1883
+                }, 
+                {
+                 "height":89,
+                 "id":248,
+                 "name":"jinglebell",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/wa.holidee.fr\/JingleBell.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":105,
+                 "x":1605,
+                 "y":1857
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -11821,13 +11843,13 @@
          "name":"Snowfall",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":106,
          "x":0,
          "y":0
         }],
  "nextlayerid":240,
- "nextobjectid":248,
+ "nextobjectid":249,
  "orientation":"orthogonal",
  "properties":[
         {
