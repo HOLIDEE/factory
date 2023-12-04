@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /Volumes/Kev\'z/GitHub/factory/
+cd /Volumes/Kev/GitHub/factory/
 npm run start
